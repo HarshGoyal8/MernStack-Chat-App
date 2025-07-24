@@ -10,6 +10,7 @@ Database: MongoDB
 ## Login and Registration
 
 <img width="959" height="413" alt="Screenshot 2025-07-24 132830" src="https://github.com/user-attachments/assets/f5df76c2-558a-4a73-bfdc-5b733b79aaad" />
+
 <img width="959" height="413" alt="Screenshot 2025-07-24 133446" src="https://github.com/user-attachments/assets/b97c2579-5569-4462-a810-f8c4279a0e87" />
 
 ## Creating Group
